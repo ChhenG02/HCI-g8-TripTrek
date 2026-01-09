@@ -44,7 +44,6 @@ class _CreateAccountScreenState extends State<CreateAccountScreen> {
         top: true,
         child: Column(
           children: [
-            // Header with back button
             Container(
               height: screenHeight * 0.08,
               child: Stack(
